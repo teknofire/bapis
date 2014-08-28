@@ -1,0 +1,1 @@
+{"description":null,"media_type":"V1::MediaTypes::FundOrg","actions":[{"description":null,"name":"show","urls":[{"verb":"GET","path":"/fund_orgs/:fund_org","version":"1.0"}],"params":{"options":{"reference":"V1::MediaTypes::FundOrg"},"type":{"name":"Struct","attributes":{}},"example":{}},"responses":{}}]}

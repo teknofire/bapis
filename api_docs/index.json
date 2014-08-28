@@ -1,0 +1,1 @@
+{"1.0":{"Employees":{"controller":"V1::ApiResources::Employees","media_type":"V1::MediaTypes::Employee"},"FundOrgs":{"controller":"V1::Resources::FundOrgs","media_type":"V1::MediaTypes::FundOrg"},"Grants":{"controller":"V1::Resources::Grants","media_type":"V1::MediaTypes::Grant"},"Hello":{"controller":"V1::Hello","media_type":"V1::MediaTypes::Hello"}}}

@@ -1,0 +1,1 @@
+{"description":null,"media_type":"V1::MediaTypes::Employee","actions":[{"description":null,"name":"show","urls":[{"verb":"GET","path":"/employees/:ua_id","version":"1.0"}],"params":{"options":{"reference":"V1::MediaTypes::Employee"},"type":{"name":"Struct","attributes":{"id":{"description":"Users UA ID number","type":{"name":"Integer"}}}},"example":{"id":285}},"responses":{}}]}

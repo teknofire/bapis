@@ -1,0 +1,1 @@
+{"description":null,"media_type":"V1::MediaTypes::Grant","actions":[{"description":null,"name":"show","urls":[{"verb":"GET","path":"/grants/:code","version":"1.0"}],"params":{"options":{"reference":"V1::MediaTypes::Grant"},"type":{"name":"Struct","attributes":{}},"example":{}},"responses":{}}]}
